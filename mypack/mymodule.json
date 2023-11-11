@@ -1,0 +1,32 @@
+{
+  "aliases": [],
+  "description": "",
+  "functions": [
+    {
+      "kind": "function",
+      "name": "main",
+      "overloads": [
+        {
+          "args": [],
+          "async": false,
+          "constraints": "",
+          "description": "",
+          "isDef": false,
+          "isStatic": false,
+          "kind": "function",
+          "name": "main",
+          "parameters": [],
+          "raises": false,
+          "returnType": null,
+          "returns": "",
+          "signature": "main()",
+          "summary": ""
+        }
+      ]
+    }
+  ],
+  "kind": "module",
+  "name": "helloworld",
+  "structs": [],
+  "summary": ""
+}
